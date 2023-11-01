@@ -1,11 +1,11 @@
-_(English version below)_
+_[(English version below)](#metaheuristics)_
 
 # Metaheurystyki
 
-## Problem kliki
-
 _(Projekt zrealizowany w 2023 r. w trakcie kursu z zakresu metaheurystyk, w ramach studiów inżynierskich na kierunku
 informatyka na Polsko-Japońskiej Akademii Technik Komputerowych w Gdańsku)._
+
+## Problem kliki
 
 **Klika** w grafie nieskierowanym _G_ o wierzchołkach _V_ i krawędziach _E_ ( _G = (V, E)_ ) jest podzbiorem
 wierzchołków _V'_ należacych do V ( _V' ⊆ V_ ), w którym każda para wierzchołków jest połączona krawędzią należącą do
@@ -27,10 +27,10 @@ Diks, A. Malinowski, D. Roszkowska i W. Rytter, wyd. VII, Warszawa 2021.
 
 # Metaheuristics
 
-## The clique problem
-
-_(This project undertaken in 2023 during the metaheuristics course, as a part of the bachelor's degree programme in
+_(The project undertaken in 2023 during the metaheuristics course, as a part of the bachelor's degree programme in
 computer science at Polsko-Japońska Akademia Technik Komputerowych, Gdańsk)._
+
+## The clique problem
 
 A **clique** in an undirected graph _G_ with vertices _V_ and edges _E_ ( _G = (V, E)_ ) is a subset of vertices _V'_
 belonging to V ( _V' ⊆ V_ ), in which every pair of vertices is connected by an edge belonging to
